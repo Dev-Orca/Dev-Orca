@@ -4,7 +4,7 @@
 
 ---
 
-📧 [chalagashviligigi@gmail.com](mailto:chalagashviligigi@gmail.com) • 📍 Tbilisi, Georgia • 🔗 [LinkedIn](https://www.linkedin.com/in/gigi-chalagashvili/) mail CORECT
+📧 [chalagashviligigi@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=chalagashviligigi@gmail.com) • 📍 Tbilisi, Georgia • 🔗 [LinkedIn](https://www.linkedin.com/in/gigi-chalagashvili/)
 
 ---
 
@@ -27,10 +27,12 @@
 ## 💻 Projects
  
 - **C++**
-  - [Windows EventLog: Failed RDP Logins Source IP → GeoData Conversion](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
+  - [Sorting Lab](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
+  - [Priority Queue](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
+  - [Pathfinder](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
  
-- **Java**
-  - [Windows EventLog: Failed RDP Logins Source IP → GeoData Conversion](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
+- **Basics**
+  - [Basics Repo](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
 
 - **Game Dev (Unity / C#)**
   - [Swift Shooter](https://www.linkedin.com/in/gigi-chalagashvili/) *(FPM e.c.t)* CORECT
@@ -39,12 +41,4 @@
 
 ---
 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/gigi-chalagashvili/
-
-*For a full list of experience and achievements, see my CV.* LINK CV HERE. CORECT
+*For a full list of experience, achievements, coursework, education and skills see my CV.* LINK CV HERE. CORECT
