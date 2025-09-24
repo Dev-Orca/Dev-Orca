@@ -19,7 +19,7 @@
 ## 💼 Job Experience
 
 **Computer Science Teacher** — Georgian-American School (2024–2025)
-- Teaching pupils [Scratch](https://github.com/joshmadakor1/Sentinel-Lab) and basics of C++. CORECT
+- Teaching pupils [Scratch](https://www.linkedin.com/in/gigi-chalagashvili/) and basics of C++. CORECT
 - Created 30+ lesson plans and guided students to complete 3 Unity games using C#.
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
 ---
