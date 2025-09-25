@@ -19,24 +19,19 @@
 ## 💼 Job Experience
 
 **Computer Science Teacher** — Georgian-American School (2024–2025)
-- Teaching pupils [Scratch](https://github.com/Dev-Orca/Scratch-Lessons) and basics of C++. DESIGN SCRATCH + THIS ENTIRE THING
+- Teaching pupils [Scratch](https://github.com/Dev-Orca/Scratch-Lessons) and basics of C++.
 - Created 30+ lesson plans and guided students to complete 3 Unity games using C#.
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
 ---
 
 ## 💻 Projects
  
-- **C++**
-  - [Sorting Lab](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
-  - [Priority Queue](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
-  - [Pathfinder](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
- 
-- **Basics**
-  - [Basics Repo](https://github.com/Dev-Orca/Basics) Design + fill
+- **Other**
+  - [Basics Repo](https://github.com/Dev-Orca/Basics)
 
 - **Game Dev (Unity / C#)**
-  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(FPM, Raycasting, ect.)* Design + fill
-  - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects ect.)* Design + fill
+  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(FPM, Raycasting, ect.)*
+  - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects ect.)*
 
 
 ---
