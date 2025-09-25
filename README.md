@@ -36,10 +36,10 @@
     - Built Coin Counter
     - Built UI
     - Built Enviroment
-  
+<!--
 - **Other**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
-
+-->
 
 ---
 
