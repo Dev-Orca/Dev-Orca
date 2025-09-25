@@ -42,5 +42,5 @@
 
 ---
 
-*For a full list of experience, achievements, coursework, education and skills see my CV.* 📄 [Download my CV (PDF)](ChalagashviliCV.pdf)
+*For a full list of experience, achievements, coursework, education and skills [See my CV (PDF)](ChalagashviliCV.pdf)* 📄 
 
