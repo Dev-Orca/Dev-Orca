@@ -30,9 +30,15 @@
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
 
 - **Game Dev (Unity / C#)**
-  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(FPM, Raycasting, ect.)*
-  - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects ect.)*
-
+  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(Raytracing, FPM and more)*
+    - Used Raycasting
+    - Built custom First Person Movement
+  - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects, UI and more)*
+    - Used Scriptable objects
+    - Inheritance
+    - Built Coin Counter
+    - Built UI
+    - Built Enviroment 
 
 ---
 
