@@ -32,7 +32,7 @@
   - [Pathfinder](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
  
 - **Basics**
-  - [Basics Repo](https://www.linkedin.com/in/gigi-chalagashvili/) CORECT
+  - [Basics Repo](https://github.com/Dev-Orca/Basics) Design + fill
 
 - **Game Dev (Unity / C#)**
   - [Swift Shooter](https://www.linkedin.com/in/gigi-chalagashvili/) *(FPM e.c.t)* CORECT
