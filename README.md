@@ -26,9 +26,6 @@
 
 ## 💻 Projects
  
-- **Other**
-  - [Basics Repo](https://github.com/Dev-Orca/Basics)
-
 - **Game Dev (Unity / C#)**
   - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(Raytracing, FPM and more)*
     - Used Raycasting
@@ -38,7 +35,11 @@
     - Inheritance
     - Built Coin Counter
     - Built UI
-    - Built Enviroment 
+    - Built Enviroment
+  
+- **Other**
+  - [Basics Repo](https://github.com/Dev-Orca/Basics)
+
 
 ---
 
