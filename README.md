@@ -35,8 +35,8 @@
   - [Basics Repo](https://github.com/Dev-Orca/Basics) Design + fill
 
 - **Game Dev (Unity / C#)**
-  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(FPM, Raycasting, ect.)* CORECT
-  - [Roll Ball](https://www.linkedin.com/in/gigi-chalagashvili/) *(Scriptable Objects ect.)* CORECT
+  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(FPM, Raycasting, ect.)* Design + fill
+  - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects ect.)* Design + fill
 
 
 ---
