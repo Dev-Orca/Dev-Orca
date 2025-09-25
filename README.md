@@ -42,4 +42,5 @@
 
 ---
 
-*For a full list of experience, achievements, coursework, education and skills see my CV.* LINK CV HERE. CORECT
+*For a full list of experience, achievements, coursework, education and skills see my CV.* 📄 [Download my CV (PDF)](ChalagashviliCV.pdf)
+
