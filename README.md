@@ -25,7 +25,8 @@
 ---
 
 ## 💻 Projects
- 
+- **Small Projects**
+  - [Basics Repo](https://github.com/Dev-Orca/Basics)
 - **Game Dev (Unity / C#)**
   - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(Raytracing, FPM and more)*
     - Used Raycasting
