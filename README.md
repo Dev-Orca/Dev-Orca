@@ -32,7 +32,7 @@
 - **Small Projects**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
 - **Game Dev (Unity / C#)**
-  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(Raytracing, FPM and more)*
+  - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(RayCasting, FPM and more)*
   - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects, UI and more)*
 <!--
 - **Other**
