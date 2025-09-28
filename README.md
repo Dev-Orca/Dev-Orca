@@ -26,9 +26,9 @@
 
 ## 💻 Projects
 - **C++ Projects**
-  - [Yahtzee](https://github.com/Dev-Orca/Yahtzee)
-  - [HangMan](https://github.com/Dev-Orca/HangMan)
-  - [Breakout](https://github.com/Dev-Orca/Breakout)
+  - [Yahtzee](https://github.com/Dev-Orca/Yahtzee) *(Randomizer and more)*
+  - [HangMan](https://github.com/Dev-Orca/HangMan) 
+  - [Breakout](https://github.com/Dev-Orca/Breakout) *(Decomposition)*
 - **Small Projects**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
 - **Game Dev (Unity / C#)**
@@ -41,5 +41,5 @@
 
 ---
 
-*For a full list of experience, achievements, coursework, education and skills [See my CV (PDF)](ChalagashviliCV.pdf)* 📄 
+*For a full list of Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](ChalagashviliCV.pdf)* 📄 
 
