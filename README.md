@@ -41,5 +41,5 @@
 
 ---
 
-*For a full list of Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](ChalagashviliCV.pdf)* 📄 
+*For a full list of Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](G_Chalagashvili_CV.pdf)* 📄 
 
