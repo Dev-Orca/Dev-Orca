@@ -29,11 +29,11 @@
   - [Yahtzee](https://github.com/Dev-Orca/Yahtzee) *(Randomizer and more)*
   - [HangMan](https://github.com/Dev-Orca/HangMan) 
   - [Breakout](https://github.com/Dev-Orca/Breakout) *(Decomposition)*
-- **Small Projects**
-  - [Basics Repo](https://github.com/Dev-Orca/Basics)
 - **Game Dev (Unity / C#)**
   - [Swift Shooter](https://github.com/Dev-Orca/Swift-Shooter) *(RayCasting, FPM and more)*
   - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects, UI and more)*
+- **Small Projects**
+  - [Basics Repo](https://github.com/Dev-Orca/Basics)
 <!--
 - **Other**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
