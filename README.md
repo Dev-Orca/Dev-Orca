@@ -13,6 +13,7 @@
 - [CS106A - Programming Methodology](https://see.stanford.edu/course/cs106a) *(Java) (Stanford)*
 - [CS106B - Programming Abstractions](https://see.stanford.edu/course/cs106b) *(C++) (Stanford)*
 - [CS107 - Programming Paradigms](https://see.stanford.edu/course/cs107) *(C / Scheme / Python) (Stanford)*
+- ect
 
 ---
 
@@ -24,7 +25,7 @@
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
 ---
 
-## 💻 Projects
+## 💻 Personal Projects
 - **C++ Projects**
   - [Yahtzee](https://github.com/Dev-Orca/Yahtzee) *(Randomizer and more)*
   - [HangMan](https://github.com/Dev-Orca/HangMan) 
@@ -34,6 +35,7 @@
   - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects, UI and more)*
 - **Small Projects**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
+- ect
 <!--
 - **Other**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
@@ -41,5 +43,5 @@
 
 ---
 
-*For a full list of Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](G_Chalagashvili_CV.pdf)* 📄 
+*For a full list of Personal Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](G_Chalagashvili_CV.pdf)* 📄 
 
