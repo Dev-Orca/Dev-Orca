@@ -25,7 +25,7 @@
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
 ---
 
-## 💻 Personal Projects
+## 💻 Personal Coding Projects
 - **C++ Projects**
   - [Yahtzee](https://github.com/Dev-Orca/Yahtzee) *(Randomizer and more)*
   - [HangMan](https://github.com/Dev-Orca/HangMan) 
