@@ -19,10 +19,20 @@
 
 ## 💼 Job Experience
 
-**Computer Science Teacher** — Georgian-American School (2024–2025)
+**Computer Science Teacher** — Georgian-American School (2024 – 2025)
 - Teaching pupils [Scratch](https://github.com/Dev-Orca/Scratch-Lessons) and basics of C++.
 - Created 30+ lesson plans and guided students to complete 3 Unity games using C#.
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
+
+**Full-Stack Developer** — StemScale - PricePulse (2025 – 2026)
+- Helped Develop Price tracking platform PricePulse,
+- Used AI, React-Native, Typescript, Database migrations, Scrapers, AI APIs
+- Worked in a team, Fixed Problems, Built Solutions, Created tasks, Lead multiple Projects successfully
+
+**Game Developer (Frontend/Backend)** — OnAim (2025 – 2026)
+- Developed many 2D Games, both Frontend and Backend
+- Used , TypeScript, PIXI.js, Database migrations, .Net, HTML, CSS, Python
+- Worked in a team, Fixed Problems, Built Solutions, Created tasks, Tested Features.
 ---
 
 ## 💻 Personal Coding Projects
