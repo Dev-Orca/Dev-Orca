@@ -19,20 +19,22 @@
 
 ## 💼 Job Experience
 
-**Computer Science Teacher** — Georgian-American School (2024 – 2025)
+**Computer Science Teacher** — Georgian-American School (1+ Years)
 - Teaching pupils [Scratch](https://github.com/Dev-Orca/Scratch-Lessons) and basics of C++.
 - Created 30+ lesson plans and guided students to complete 3 Unity games using C#.
 - [Teaching at Georgian-American School (preview)](https://www.facebook.com/reel/1332044381114797)
 
-**Full-Stack Developer** — StemScale - PricePulse (2025 – 2026)
+**Full-Stack Developer** — StemScale - PricePulse (1+ Years)
 - Helped Develop Price tracking platform PricePulse,
 - Used AI, React-Native, Typescript, Database migrations, Scrapers, AI APIs
 - Worked in a team, Fixed Problems, Built Solutions, Created tasks, Lead multiple Projects successfully
 
-**Game Developer (Frontend/Backend)** — OnAim (2025 – 2026)
+**Game Developer (Frontend/Backend)** — OnAim (1+ Years)
+- Developed admin panel for game gallery
+- Developed multiple major features
 - Developed many 2D Games, both Frontend and Backend
 - Used , TypeScript, PIXI.js, Database migrations, .Net, HTML, CSS, Python
-- Worked in a team, Fixed Problems, Built Solutions, Created tasks, Tested Features.
+- Worked in a team, Worked With AI, Fixed Problems, Built Solutions, Created tasks, Tested Features.
 ---
 
 ## 💻 Personal Coding Projects
@@ -45,7 +47,7 @@
   - [Roll Ball](https://github.com/Dev-Orca/Roll-Ball) *(Scriptable Objects, UI and more)*
 - **Small Projects**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
-- ect
+- And Way More Complex Projects That I'm Not Allowed To Show Directly
 <!--
 - **Other**
   - [Basics Repo](https://github.com/Dev-Orca/Basics)
@@ -53,5 +55,5 @@
 
 ---
 
-*For a full list of Personal Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](G_ChalagashviliCV.pdf)* 📄 
+*For a full list of Personal Projects, Experience, Achievements, Coursework, Education and Skills [See my CV (PDF)](GigiChalagashviliCV.pdf)* 📄 
 
